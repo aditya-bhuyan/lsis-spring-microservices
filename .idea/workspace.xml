@@ -2,70 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf6ebac3-4208-4444-9249-7db96b8e1dbf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10.2/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10.2/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileContent/fileContent.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applications/config-server/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applications/config-server/build/classes/java/main/com/lsis/config/ConfigServerApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applications/config-server/build/resources/main/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applications/config-server/src/main/java/com/lsis/config/ConfigServerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applications/config-server/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applications/customer/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applications/customer/build/classes/java/main/com/lsis/customer/Customer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applications/customer/build/classes/java/main/com/lsis/customer/CustomerApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applications/customer/build/classes/java/main/com/lsis/customer/CustomerController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applications/customer/build/classes/java/main/com/lsis/customer/CustomerRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applications/customer/build/resources/main/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applications/customer/src/main/java/com/lsis/customer/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applications/customer/src/main/java/com/lsis/customer/CustomerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applications/customer/src/main/java/com/lsis/customer/CustomerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applications/customer/src/main/java/com/lsis/customer/CustomerRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applications/customer/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applications/order/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applications/order/build/classes/java/main/com/lsis/order/Customer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applications/order/build/classes/java/main/com/lsis/order/Order.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applications/order/build/classes/java/main/com/lsis/order/OrderApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applications/order/build/classes/java/main/com/lsis/order/OrderController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applications/order/build/classes/java/main/com/lsis/order/OrderInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applications/order/build/classes/java/main/com/lsis/order/OrderRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applications/order/build/resources/main/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applications/order/build/resources/main/bootstrap.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applications/order/src/main/java/com/lsis/order/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applications/order/src/main/java/com/lsis/order/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applications/order/src/main/java/com/lsis/order/OrderApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applications/order/src/main/java/com/lsis/order/OrderController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applications/order/src/main/java/com/lsis/order/OrderInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applications/order/src/main/java/com/lsis/order/OrderRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applications/order/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applications/order/src/main/resources/bootstrap.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/applications/config-server/build/classes/java/main/com/lsis/config/ConfigServerApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/applications/config-server/build/resources/main/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/applications/customer/build/classes/java/main/com/lsis/customer/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/applications/customer/build/classes/java/main/com/lsis/customer/CustomerApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/applications/customer/build/classes/java/main/com/lsis/customer/CustomerController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/applications/customer/build/classes/java/main/com/lsis/customer/CustomerRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/applications/customer/build/resources/main/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/applications/order/build/classes/java/main/com/lsis/order/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/applications/order/build/classes/java/main/com/lsis/order/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/applications/order/build/classes/java/main/com/lsis/order/OrderApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/applications/order/build/classes/java/main/com/lsis/order/OrderController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/applications/order/build/classes/java/main/com/lsis/order/OrderInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/applications/order/build/classes/java/main/com/lsis/order/OrderRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/applications/order/build/resources/main/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/applications/order/build/resources/main/bootstrap.properties" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
